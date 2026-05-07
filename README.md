@@ -38,6 +38,8 @@ Run the index builder before evaluating the system.
 python build_index.py
 ```
 
+The completed index can be found here: https://drive.google.com/drive/folders/1HgvVpOEfZzP3-vlefG7ULEuG8ANM-ovL?usp=drive_link
+
 ---
 
 # Evaluate the System
