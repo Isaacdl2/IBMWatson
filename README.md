@@ -38,7 +38,10 @@ Run the index builder before evaluating the system.
 python build_index.py
 ```
 
-The completed index can be found here: https://drive.google.com/drive/folders/1HgvVpOEfZzP3-vlefG7ULEuG8ANM-ovL?usp=drive_link
+After running the script, the program will generate an index/ folder in the project root directory containing the completed Whoosh index.
+
+A prebuilt version of the index can also be found here: 
+https://drive.google.com/drive/folders/1ZwwdcXAnNFosThBde2_lX4t6Hf2m0R6J?usp=sharing
 
 ---
 
