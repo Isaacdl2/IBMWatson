@@ -1,0 +1,19 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Whoosh index
+index/
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# OS/editor files
+.DS_Store
+._*
+.vscode/
+.idea/
+index/
